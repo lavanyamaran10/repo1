@@ -1,2 +1,18 @@
 text1
 test
+git push -u origin main
+
+| Purpose         | Command                     |
+| --------------- | --------------------------- |
+| Initialize repo | `git init`                  |
+| Clone           | `git clone url`             |
+| Add files       | `git add .`                 |
+| Commit          | `git commit -m ""`          |
+| Push            | `git push`                  |
+| Pull            | `git pull`                  |
+| Create branch   | `git checkout -b branch`    |
+| Switch branch   | `git checkout branch`       |
+| Merge           | `git merge branch`          |
+| Check branches  | `git branch`                |
+| Add remote      | `git remote add origin url` |
+| Remove remote   | `git remote remove origin`  |
